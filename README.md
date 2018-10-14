@@ -1,0 +1,2 @@
+# prostynajempl
+GitHub Pages
